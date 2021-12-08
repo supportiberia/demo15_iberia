@@ -1,0 +1,4 @@
+[submodule "EdgarNaranjo/bim_project"]
+	path = EdgarNaranjo/bim_project
+	url = git@github.com:EdgarNaranjo/bim_project.git
+	branch = main
